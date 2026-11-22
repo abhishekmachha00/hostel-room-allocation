@@ -63,3 +63,7 @@ changed at the top of `main.c`:
 Note: `hostel.dat` is created when the program runs and contains saved
 student data. It is not part of the source code and should not be
 uploaded.
+## Team
+
+- Abhishek
+- Kartavyamani
